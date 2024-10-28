@@ -20,3 +20,5 @@ http://127.0.0.1:5000/check?number=8
 
 Ответ:
 {"number": 8, "result": "even"}
+![image](https://github.com/ririshka/DevOps-DBA/blob/main/D1/image.png)
+
